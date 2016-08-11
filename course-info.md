@@ -37,7 +37,7 @@ This course provides students with a broad understanding of modern software engi
   * Sprint 3 Deliverable - 10%
   * Sprint 4 Deliverable - 10%
   * Final Deliverable and Presentation - 20%
-* Class Participation - 10% (Exercises)
+* Class Participation - 10% (Exercises and Guest Lecture attendance)
 
 It is strongly recommended that you come to class each for each lecture.  Material may be presented or covered in class that is not in the reading.  I also expect active participation in class (there will be various projects done in class).  However,  I will only take roll for the class exercise days.  On these days, attendance and participation is mandatory.
 
