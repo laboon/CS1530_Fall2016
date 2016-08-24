@@ -8,7 +8,7 @@ Software Engineering
 **Professor's Office Hours:**
 
 * SENSQ 6305
-* Tuesday and Thursday 2:30 - 4:00  PM
+* Wednesday 1:30 - 4:30  PM
 * ...or by appointment.  
 
 **Class Time:** TH 11:00 AM - 12:15 PM
