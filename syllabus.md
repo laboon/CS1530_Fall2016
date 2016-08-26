@@ -6,7 +6,9 @@ Growing Object-Oriented Software, Guided by Tests
 
 Code Complete, Second Edition
 
-The Mythical Man-Month is available online at the Internet Archive: [https://archive.org/details/mythicalmanmonth00fred](https://archive.org/details/mythicalmanmonth00fred)
+The Mythical Man-Month is available for free online at the Internet Archive: [https://archive.org/details/mythicalmanmonth00fred](https://archive.org/details/mythicalmanmonth00fred)
+
+Building and Testing With Gradle is available for free online at: http://www2.gradle.com/l/68052/2015-01-13/6dm
 
 ## WEEK 1 (Week of 29 Aug)
 
@@ -45,18 +47,20 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
   * Branches and Merging
   * Git 911
 
-### Class 2 - Programming in Rust, Part 1
+### Class 2 - Intro to Gradle
+  * Building
+  * Testing
+  * Other tasks
 
 ## WEEK 5 (Week of 26 Sep)
 
-### Class 1 - Programming in Rust, Part 2
-  * EXERCISE: Pair Programming Tic-Tac-Schmoe in Rust
+### Class 1 - Gradle Exercise
+  * EXERCISE: Pair Programming a Gradle application
 
 ### Class 2 - Introduction to Test-Driven Development (TDD)
 #### __Reading: Freeman/Pryce, Chapters 1 - 3__
-  * Unit Testing with Rust
+  * Unit Testing
   * The Red-Green-Refactor cycle
-  * EXERCISE: TDD w/ Rust
   
 ## WEEK 6 (Week of 3 Oct)
 

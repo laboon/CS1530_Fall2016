@@ -74,7 +74,7 @@ Presence for the mid-term exams and class exercises are REQUIRED.  They will be 
 
 ## Group Project Details
 
-Students will be grouped into groups of 4 or 5, and will work on a project for the duration of the course.  There will be several sprints, at the end of each of which the students will have a working version of their software available on GitHub or GitLab, as well as documentation and other information (specified for each particular sprint).
+Students will be grouped into groups of approximately 4 or 5, and will work on a project for the duration of the course.  There will be several sprints, at the end of each of which the students will have a working version of their software available on GitHub or GitLab, as well as documentation and other information (specified for each particular sprint).
 
 Deliverables must be committed to GitHub or GitLab by the beginning of class on the day that it is due.  Late deliverables will NOT be accepted unless authorized __at least 24 hours before the due date__.
 
@@ -84,7 +84,7 @@ Bonus points (at the discretion of the instructor) will be given if you give a t
 
 ## Programming Language Selection
 
-All software projects for this course will be written in the Rust language.
+All software projects for this course will be written in the Java language (version 1.8).  Additionally, we will be using associated tools, librraries and frameworks such as Swing, Gradle and JUnit.  These will be discussed in class.
 
 ## Disability Services Statement
 
