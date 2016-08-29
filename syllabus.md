@@ -125,10 +125,9 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 
 ## WEEK 11 (Week of 14 Nov)
 
-### Class 1 - Trade-Offs in Software Engineering
+### Class 1 - Software Craftsmanship, cont'd
 
-### Class 2 - Trade-Offs in Software Engineering, part 2
-  * Trade-off exercise
+### Class 2 - Trade-Offs in Software Engineering
 
 ## WEEK 12 (Week of 21 Nov)
 
@@ -147,5 +146,6 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 ## WEEK 14 (Week of 5 Dec)
 
 ### Class 1 - Project Presentations, cont'd.
+  * If there is time - review for the second mid-term
 
 ### Class 2 - Mid-term 2
