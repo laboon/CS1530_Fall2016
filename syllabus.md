@@ -80,8 +80,8 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 
 ### Class 2 - Object-Oriented Analysis and Design
   * Breaking down a project into objects
-  * Design patterns
-   * SPRINT 2 ENDS; SPRINT 3 BEGINS
+  * Intro to Design patterns
+  * SPRINT 2 ENDS; SPRINT 3 BEGINS
 
 ## WEEK 7 (Week of 17 Oct)
 
@@ -106,39 +106,52 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 ### Class 1 - Quality Assurance and Quality Software
 #### __READING: McConnell, Chapters 20 - 23__
   * The QA process and why it is important
+  * QA implementation as part of the SDLC
   * Code Reviews
 
-### Class 2 - Quality Assurance and Quality Software, Cont'd.
-  * QA implementation as part of the SDLC
+### Class 2 - Programming with Concurrency
+  * Why program with threads?
+  * Threads vs Processes
+  * Pitfalls
 
 ## WEEK 10 (Week of 7 Nov)
+
+### Class 1 - Concurrency in Java
+  * java.util.concurrent
+  * Thread-safe programming in Java
+  * Common patterns and anti-patterns
+
+### Class 2 - Distributed Systems
+  * Definition
+  * Benefits and Drawbacks
+  * Fallacies of Distributed Computing
+  
+## WEEK 11 (Week of 14 Nov)
 
 ### Class 1 - Using Design Patterns
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
   * Using "Gang of Four" classic design patterns
-  * Multi-threaded Programming
 
 ### Class 2 - Software Craftsmanship
 #### __READING: McConnell, Chapters 33 - 34__
   * Writing good code - maintainable, testable, etc.
   * SPRINT 4 ENDS; SPRINT 5 BEGINS (9 Nov)
 
-## WEEK 11 (Week of 14 Nov)
-
-### Class 1 - Software Craftsmanship, cont'd
-
-### Class 2 - Trade-Offs in Software Engineering
-
 ## WEEK 12 (Week of 21 Nov)
 
-### Class 1 - Designing Software for Accessibility
+### Class 1 - Software Craftsmanship, cont'd
+  * Intellectual humility and avoiding complexity
+  * Conventions and Abstractions
+  * Continuous Improvement
 
 ### Class 2 - NO CLASS, THANKSGIVING
 
 ## WEEK 13 (Week of 28 Nov)
 
-### Class 1 - Guest Lecture
-  * SPRINT 5 ENDS (28 Nov)
+### Class 1 - Trade-Offs in Software Engineering
+  * Cost / Benefit analysis
+  * Making decisions based on the Iron Triangle
+  * Examples - Apollo Guidance Computer, Adding Metrics to Web Application
 
 ### Class 2 - Project Presentation
   * Each group will present their project to the rest of the class
