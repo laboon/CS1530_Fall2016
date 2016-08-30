@@ -60,7 +60,7 @@ Score  | Grade
 63.99-61.00  | D-
 60.99-0.00   | F
 
-All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.
+All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.  Projects will be analyzed with the Stanford _moss_ system to detect unauthorized collaboration between groups.
 
 However, any student caught collaborating or cheating on an exam will automatically receive a 0 (zero) for that exam, and may be penalized more harshly based on University of Pittsburgh academic policy.
 
@@ -84,7 +84,7 @@ Bonus points (at the discretion of the instructor) will be given if you give a t
 
 ## Programming Language Selection
 
-All software projects for this course will be written in the Java language (version 1.8).  Additionally, we will be using associated tools, librraries and frameworks such as Swing, Gradle and JUnit.  These will be discussed in class.
+All software projects for this course will be written in the Java language (version 1.8).  Additionally, we will be using associated tools, libraries and frameworks such as Swing, Gradle and JUnit.  These will be discussed in class.
 
 ## Disability Services Statement
 
