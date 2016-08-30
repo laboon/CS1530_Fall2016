@@ -1,6 +1,8 @@
 # Syllabus - Fall 2016
 CS1530: Software Engineering
 
+Note that this syllabus is subject to change, but we will cover all of these topics!  I may change the ordering based on class/project needs or interests, but these are the topics we will cover.
+
 # Required Books
 Growing Object-Oriented Software, Guided by Tests
 
