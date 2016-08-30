@@ -105,5 +105,5 @@ to exhibit honesty and to respect the ethical standards of the
 University community and of their chosen field of study in carrying
 out academic assignments. A&S students are therefore expected to
 familiarize themselves with the published rules and regulations go to
-http://www.fcas.pitt.edu/academicintegrity.html
+http://www.provost.pitt.edu/info/acguidelinespdf.pdf
 
