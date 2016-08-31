@@ -15,21 +15,21 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 ## WEEK 1 (Week of 29 Aug)
 
 ### Class 1 - Introduction: What is Software Engineering?
-* Software Engineering vs Programming vs Computer Science
+  * Software Engineering vs Programming vs Computer Science
 
 ### Class 2 - Overview: Designing a Software Product
 #### __Reading: Brooks, "The Tar Pit" and Brooks, "The Mythical Man-Month" (just the titular essay, not the entire book)__
 #### __ASSIGNED: Group Selection__
-* Why is this difficult?
-* Overview of the Software Development Life Cycle
-* What goes into a software product aside from code?
+  * Why is this difficult?
+  * Overview of the Software Development Life Cycle
+  * What goes into a software product aside from code?
 
 ## WEEK 2 (Week of 5 Sep)
 
 ### Class 1 - An Overview of Software Engineering Methodologies
 #### __Reading: McConnell, Chapters 1 - 3__
-* Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding", Agile
-* Our Methodology: Agile/Scrum with TDD
+  * Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding", Agile
+  * Our Methodology: Agile/Scrum with TDD
 
 ### Class 2 - An Overview of Software Engineering Methodologies, cont'd
 

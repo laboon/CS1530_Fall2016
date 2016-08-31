@@ -3,41 +3,40 @@ Software Engineering
 
 ## Course Information
 
-**Taught by:** Bill Laboon (laboon@cs.pitt.edu)  
+**Taught by:** Bill Laboon ([laboon@cs.pitt.edu](mailto:laboon@cs.pitt.edu))  
 
 **Professor's Office Hours:**
 
-* SENSQ 6305
-* Wednesday 1:30 - 4:30  PM
-* ...or by appointment.  
+  * SENSQ 6305
+  * Wednesday 1:30 - 4:30  PM
+  * ...or by appointment.  
 
 **Class Time:** TH 11:00 AM - 12:15 PM
 **Room:** SENSQ 5129
 
-**Class GitHub repo:** https://www.github.com/laboon/cs1530  
+**Class GitHub repo:** [https://www.github.com/laboon/cs1530_Fall2016](https://www.github.com/laboon/cs1530_Fall2016)  
 
 **Required Texts:** 
-* Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and Nat Pryce. ISBN 9780321503626
+  * Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and Nat Pryce. ISBN 9780321503626
 
-* Code Complete (Second Edition). Author: Steve McConnell. ISBN 0790145196705
+  * Code Complete (Second Edition). Author: Steve McConnell. ISBN 0790145196705
 
-* Online essays/articles will also be assigned.
+  * Online essays/articles will also be assigned.
 
-**
 
 This course provides students with a broad understanding of modern software engineering. Although it will cover theory, the emphasis is on providing practical skills in software engineering currently used in industry. To that end, it will cover project and product management, software architecture and design patterns, team communications, and other material relevant to __engineering__ software instead of just __coding__ it.
 
 ## Grading
 
-* Mid-term Exam 1 - 15%
-* Mid-term Exam 2 - 15%
-* Group Project:
-  * Sprint 1 Deliverable - 10%
-  * Sprint 2 Deliverable - 10% 
-  * Sprint 3 Deliverable - 10%
-  * Sprint 4 Deliverable - 10%
-  * Final Deliverable and Presentation - 20%
-* Class Participation - 10% (Exercises and Guest Lecture attendance)
+  * Mid-term Exam 1 - 15%
+  * Mid-term Exam 2 - 15%
+  * Group Project:
+    * Sprint 1 Deliverable - 10%
+    * Sprint 2 Deliverable - 10% 
+    * Sprint 3 Deliverable - 10%
+    * Sprint 4 Deliverable - 10%
+    * Final Deliverable and Presentation - 20%
+  * Class Participation - 10% (Exercises and Guest Lecture attendance)
 
 It is strongly recommended that you come to class each for each lecture.  Material may be presented or covered in class that is not in the reading.  I also expect active participation in class (there will be various projects done in class).  However,  I will only take roll for the class exercise days.  On these days, attendance and participation is mandatory.
 
@@ -80,7 +79,7 @@ Deliverables must be committed to GitHub or GitLab by the beginning of class on 
 
 ## Extra Credit
 
-Bonus points (at the discretion of the instructor) will be given if you give a talk to a a programming meetup or conference.
+Bonus points (at the discretion of the instructor) will be given if you give a talk to a programming meetup or conference.
 
 ## Programming Language Selection
 
@@ -106,5 +105,5 @@ to exhibit honesty and to respect the ethical standards of the
 University community and of their chosen field of study in carrying
 out academic assignments. A&S students are therefore expected to
 familiarize themselves with the published rules and regulations go to
-http://www.fcas.pitt.edu/academicintegrity.html
+http://www.provost.pitt.edu/info/acguidelinespdf.pdf
 
