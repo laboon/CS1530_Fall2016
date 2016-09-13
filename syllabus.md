@@ -63,12 +63,12 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 #### __Reading: Freeman/Pryce, Chapters 1 - 3__
   * Unit Testing
   * The Red-Green-Refactor cycle
+  * SPRINT 1 ENDS; SPRINT 2 BEGINS (28 Sep)
   
 ## WEEK 6 (Week of 3 Oct)
 
 ### Class 1 - Software Engineering with TDD
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
-  * SPRINT 1 ENDS; SPRINT 2 BEGINS (28 Sep)
 
 ### Class 2 - Software Design
 #### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
