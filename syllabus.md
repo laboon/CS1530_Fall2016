@@ -47,7 +47,7 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 
 ### Class 1 - Git Exercise
   * Branches and Merging
-  * Git 911
+  * EXERCISE: Git 911
 
 ### Class 2 - Intro to Gradle
   * Building
@@ -127,6 +127,7 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
   * Definition
   * Benefits and Drawbacks
   * Fallacies of Distributed Computing
+  * EXERCISE: Distributed Computing
   
 ## WEEK 11 (Week of 14 Nov)
 
@@ -154,6 +155,7 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
   * Cost / Benefit analysis
   * Making decisions based on the Iron Triangle
   * Examples - Apollo Guidance Computer, Adding Metrics to Web Application
+  * EXERCISE: Trade-off Discussion
 
 ### Class 2 - Project Presentation
   * Each group will present their project to the rest of the class
