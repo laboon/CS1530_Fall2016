@@ -29,7 +29,7 @@ Each of these sections shall be CLEARLY MARKED (i.e. they should each have title
 
 Format for cover page:
 * The names of the people in the group.  Mark down who the Scrum Master is this sprint, e.g. "Jane Doe (Scrum Master)"
-* The date that it is due (29 SEPTEMBER 2015)
+* The date that it is due (29 SEPTEMBER 2016)
 * The title "CS 1530 - SPRINT 1 DELIVERABLE"
 
 ## Grading
