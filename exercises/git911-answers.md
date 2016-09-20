@@ -53,7 +53,7 @@ Note that you won't be able to push this back up without forcing, since you "rew
 
 After rebasing, you can merge to master just like before:
 
-``
+```
 git checkout master
 git merge wjl_commits
 git push origin master
