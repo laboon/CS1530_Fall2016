@@ -20,10 +20,10 @@ For the first sprint, you will turn in:
 
 1. A cover page, in the format described below
 2. A backlog of user stories, ranked by prioritization (highest priority first)
-3. A "walking skeleton" application available on GitHub
+3. A "walking skeleton" application available on GitHub or GitLab (ADD ME AS A COLLABORATOR!  Username on either site is "laboon")
 3. A description of your test plan and branching plan
 4. A description of how you determined the user stories, and how you prioritized them
-5. A paper prototype (drawing) of the system and how 
+5. A paper prototype (drawing) of the system, and a general description of how users will interact with the system
 
 Each of these sections shall be CLEARLY MARKED (i.e. they should each have titles and start on their own page).
 
@@ -53,7 +53,7 @@ The test plan should be at least several paragraphs explaining what sorts of thi
 
 The branching/integration plan should detail how branches will be named and how they will be integrated.  You have several possibilities: allow anyone to integrate a branch to master after somebody else reviews it, have only the Scrum Master or other person be in charge of it, have anybody BESIDES the original writer merge branches, etc.  I will NOT accept any plan which does not require somebody else to look at the code before merging it to master!  Code shall be reviewed!
 
-Keep in mind that neither the test plan not integration plan are written in stone.  You may modify them as the sprints go on if you feel they are not meeting your needs.  But I want you to think about them now in the "setup" sprint.
+Keep in mind that neither the test plan nor integration plan are written in stone.  You may modify them as the sprints go on if you feel they are not meeting your needs.  But I want you to think about them now in the "setup" sprint.
 
 The description of decisions should be, at an absolute minimum, one page of text.  It should include any background research you did on the domain, your interactions with the customer, and your team's opinions on prioritization.  Be sure to include any __disagreement__ your team had internally!  Software engineering is rarely without some sort of disagreement about the direction of the software. 
 
