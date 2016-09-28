@@ -20,7 +20,7 @@ For the first sprint, you will turn in:
 
 1. A cover page, in the format described below
 2. A backlog of user stories, ranked by prioritization (highest priority first)
-3. A "walking skeleton" application available on GitHub
+3. A "walking skeleton" application available on GitHub or GitLab (ADD ME AS A COLLABORATOR!  Username on either site is "laboon")
 3. A description of your test plan and branching plan
 4. A description of how you determined the user stories, and how you prioritized them
 5. A paper prototype (drawing) of the system, and a general description of how users will interact with the system
