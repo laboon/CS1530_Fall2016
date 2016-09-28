@@ -59,39 +59,38 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 ### Class 1 - Gradle Exercise
   * EXERCISE: Pair Programming a Gradle application
 
-### Class 2 - Introduction to Test-Driven Development (TDD)
-#### __Reading: Freeman/Pryce, Chapters 1 - 3__
-  * Unit Testing
-  * The Red-Green-Refactor cycle
+### Class 2 - First Retrospective / Sprint Planning
   * SPRINT 1 ENDS; SPRINT 2 BEGINS (28 Sep)
   
 ## WEEK 6 (Week of 3 Oct)
 
-### Class 1 - Software Engineering with TDD
+### Class 1 - Introduction to Test-Driven Development (TDD)
+#### __Reading: Freeman/Pryce, Chapters 1 - 3__
+  * TFD / TDD
+  * The Red-Green-Refactor cycle
+
+### Class 2 - Software Engineering with TDD
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
 
-### Class 2 - Software Design
-#### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
-  * Top-down vs bottom-up
-  * Architecture Models (simple, layered, client-server, n-tier, Big Ball of Mud, etc.)
 
 ## WEEK 7 (Week of 10 Oct)
 
 ### Class 1
   * __MIDTERM__
 
-### Class 2 - Object-Oriented Analysis and Design
-  * Breaking down a project into objects
-  * Intro to Design patterns
+### Class 2 - Software Design
+#### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
+  * Top-down vs bottom-up
+  * Architecture Models (simple, layered, client-server, n-tier, Big Ball of Mud, etc.)
   * SPRINT 2 ENDS; SPRINT 3 BEGINS
 
 ## WEEK 7 (Week of 17 Oct)
 
 ### Class 1 - NO CLASS (Fall Break)
 
-### Class 2 - Integration and the Software Pipeline
-  * Classical models of integration
-  * Continuous Integration
+### Class 2 - Object-Oriented Analysis and Design
+  * Breaking down a project into objects
+  * Intro to Design patterns
 
 ## WEEK 8 (Week of 24 Oct)
 
@@ -100,7 +99,8 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 #### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 
 ### Class 2 - Guest Lecture
-  * Please submit sprint paperwork in my mailbox (5th floor Sennott Square)
+  * Submit sprint paperwork in my mailbox (5th floor Sennott Square)
+  * Hold your own retrospective / sprint planning meeting
   * SPRINT 3 ENDS; SPRINT 4 BEGINS (26 Oct)
 
 ## WEEK 9 (Week of 31 Oct)
@@ -111,23 +111,22 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
   * QA implementation as part of the SDLC
   * Code Reviews
 
-### Class 2 - Programming with Concurrency
+### Class 2 - Integration and the Software Pipeline
+  * Classical models of integration
+  * Continuous Integration
+
+## WEEK 10 (Week of 7 Nov)
+
+### Class 1 - Programming with Concurrency
   * Why program with threads?
   * Threads vs Processes
   * Pitfalls
 
-## WEEK 10 (Week of 7 Nov)
-
-### Class 1 - Concurrency in Java
+### Class 2 - Concurrency in Java
   * java.util.concurrent
   * Thread-safe programming in Java
   * Common patterns and anti-patterns
-
-### Class 2 - Distributed Systems
-  * Definition
-  * Benefits and Drawbacks
-  * Fallacies of Distributed Computing
-  * EXERCISE: Distributed Computing
+  * SPRINT 4 ENDS; SPRINT 5 BEGINS
   
 ## WEEK 11 (Week of 14 Nov)
 
@@ -135,14 +134,17 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
   * Using "Gang of Four" classic design patterns
 
-### Class 2 - Software Craftsmanship
-#### __READING: McConnell, Chapters 33 - 34__
-  * Writing good code - maintainable, testable, etc.
-  * SPRINT 4 ENDS; SPRINT 5 BEGINS (9 Nov)
+### Class 2 - Distributed Systems
+  * Definition
+  * Benefits and Drawbacks
+  * Fallacies of Distributed Computing
+  * EXERCISE: Distributed Computing
 
 ## WEEK 12 (Week of 21 Nov)
 
-### Class 1 - Software Craftsmanship, cont'd
+### Class 1 - Software Craftsmanship
+#### __READING: McConnell, Chapters 33 - 34__
+  * Writing good code - maintainable, testable, etc.
   * Intellectual humility and avoiding complexity
   * Conventions and Abstractions
   * Continuous Improvement
@@ -159,6 +161,7 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 
 ### Class 2 - Project Presentation
   * Each group will present their project to the rest of the class
+  * END OF FIFTH SPRINT; END OF PROJECT!
 
 ## WEEK 14 (Week of 5 Dec)
 
