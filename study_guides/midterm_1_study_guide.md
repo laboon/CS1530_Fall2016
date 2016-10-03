@@ -1,6 +1,6 @@
 ## Midterm Study Guide
 
-__Reminder: Midterm is 10 October 2016!__
+__Reminder: Midterm is 11 October 2016!__
 
 1. Be able to explain difference between software engineering, computer science, programming
 2. Understand the Software Development Life Cycle (SDLC)
