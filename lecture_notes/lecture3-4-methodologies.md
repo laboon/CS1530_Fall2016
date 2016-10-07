@@ -126,7 +126,7 @@
 
 * Benefits
   * Very flexible, very good for work on tight timelines without rigid deadlines
-  * Kanban - "continuous improvement" baked into the system for the most part
+  * Kaizen - "continuous improvement" baked into the system for the most part
   * Focus on user means you focus on end goal ("How does this help kids learn math?")
 
 * Drawbacks
