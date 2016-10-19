@@ -92,7 +92,6 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
   * Overview of UML
   * SOLID Principles
   * DRY
-  * Intro to OO Design patterns
 
 ## WEEK 8 (Week of 24 Oct)
 
