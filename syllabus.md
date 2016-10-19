@@ -89,14 +89,18 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 ### Class 1 - NO CLASS (Fall Break)
 
 ### Class 2 - Object-Oriented Analysis and Design
-  * Breaking down a project into objects
-  * Intro to Design patterns
+  * Overview of UML
+  * SOLID Principles
+  * DRY
+  * Intro to OO Design patterns
 
 ## WEEK 8 (Week of 24 Oct)
 
-### Class 1 - Legacy Code, Large Systems, and Working On Other People's Code
-#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
-#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
+### Class 1 - Quality Assurance and Quality Software
+#### __READING: McConnell, Chapters 20 - 23__
+  * The QA process and why it is important
+  * QA implementation as part of the SDLC
+  * Code Reviews
 
 ### Class 2 - NO CLASS OCT 27
   * Submit sprint paperwork in my mailbox (5th floor Sennott Square)
@@ -105,11 +109,9 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 
 ## WEEK 9 (Week of 31 Oct)
 
-### Class 1 - Quality Assurance and Quality Software
-#### __READING: McConnell, Chapters 20 - 23__
-  * The QA process and why it is important
-  * QA implementation as part of the SDLC
-  * Code Reviews
+### Class 1 - Legacy Code, Large Systems, and Working On Other People's Code
+#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
+#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 
 ### Class 2 - Integration and the Software Pipeline
   * Classical models of integration
