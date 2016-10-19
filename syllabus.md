@@ -98,7 +98,7 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 #### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
 #### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 
-### Class 2 - Guest Lecture
+### Class 2 - NO CLASS OCT 27
   * Submit sprint paperwork in my mailbox (5th floor Sennott Square)
   * Hold your own retrospective / sprint planning meeting
   * SPRINT 3 ENDS; SPRINT 4 BEGINS (26 Oct)
