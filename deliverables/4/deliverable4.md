@@ -19,7 +19,7 @@ The customer has decided that they want the ability to "flip" the chessboard - t
 
 Additionally, the customer thinks that "black" and "white" are boring colors for chess pieces.  They want some way (how, exactly, is up to you) to change the colors of the pieces to other color schemes (for example, have the "white" pieces be yellow and the "black" pieces be blue, to make a Pitt-themed chess game).  This can be done via a color wheel, RGB values, or a drop-down list of common colors.
 
-It is up to you to determine the specific user interface for these.  The number of story points that they will require will depend on your current codebase.  During the sprint review, you may want to review the code and only then make an estimate.
+It is up to you to determine the specific user interface for these.  The number of story points that they will require will depend on your current codebase.  During the sprint planning session, you may want to review the code and only then make an estimate.
 
 __Additional User Stories:__
 
@@ -51,7 +51,7 @@ For the third sprint, you will turn in:
 
 Each of these sections shall be CLEARLY MARKED (i.e. they should each have titles and start on their own page).
 
-Code should be submitted as pull requests on GitHub.  Another member of the team - *not* the person who wrote the code - should review the code for performance issues, illegibility, test coverage, poor design, lack of commenting, poor algorithm choice, etc.  We will discuss code review more in class as the sprint progresses.
+Code should be submitted as pull requests on GitHub.  Remember that another member of the team - *not* the person who wrote the code - should review the code for performance issues, illegibility, test coverage, poor design, lack of commenting, poor algorithm choice, etc. 
 
 Remember that your main goal is to deliver a working version of the software (i.e., can be compiled and executed on any individual member's computer).  Think about that when planning and prioritizing!
 
