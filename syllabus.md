@@ -135,11 +135,8 @@ Building and Testing With Gradle is available for free online at: http://www2.gr
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
   * Using "Gang of Four" classic design patterns
 
-### Class 2 - Distributed Systems
-  * Definition
-  * Benefits and Drawbacks
-  * Fallacies of Distributed Computing
-  * EXERCISE: Distributed Computing
+### Class 2 - Design Patterns and Legacy Code
+  * EXERCISE: Design Patterns and Legacy Code
 
 ## WEEK 12 (Week of 21 Nov)
 
