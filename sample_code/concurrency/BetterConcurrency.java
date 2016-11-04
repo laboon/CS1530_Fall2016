@@ -1,4 +1,4 @@
-public class Deadlock {
+public class BetterConcurrency {
 
     public static int x = 0;
 
