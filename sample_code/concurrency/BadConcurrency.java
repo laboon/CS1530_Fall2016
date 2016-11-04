@@ -6,11 +6,16 @@ public class BadConcurrency {
     
     public static void main(String[] args) {
 
+	// Start thread 1, which will add 100,000 to x
+	
 	Thread t1 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    x++;
 		}
-	    });	    
+	    });
+
+	// Start thread 1, which will subtract 100,000 from x
+
 	Thread t2 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    x--;
@@ -28,8 +33,8 @@ public class BadConcurrency {
 	    t2.join();
 	} catch (InterruptedException iex) { }
 
-	// Print out final result - we have done x++ 10000 times
-	// and x-- 100 times
+	// Print out final result - we have done x++
+	// and x-- the same number of times
 	
 	System.out.println("x is now " + x);
 				   

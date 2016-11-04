@@ -1,3 +1,8 @@
+// In this case, every time we increment or decrement x,
+// we ensure that is an ATOMIC operation.
+// Either t1 or t2 has the lock on Object ref,
+// but never both, so they will never interleave.
+
 public class BetterConcurrency {
 
     public static int x = 0;

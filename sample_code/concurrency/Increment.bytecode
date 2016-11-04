@@ -1,0 +1,21 @@
+Compiled from "Increment.java"
+public class Increment {
+  public Increment();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       // Lines 0 - 2 are int a = 12;
+       0: bipush        12	// Put value 12 onto the stack
+       2: istore_1		// Store value at top of stack into variable 1
+       // Lines 3 - 7 are a += 1;
+       3: iload_1		// Load value from variable 1 and put on stack
+       4: iconst_1		// Load constant value 1 and put on stack
+       5: iadd			// Add top two elements on stack as integers
+       6: i2b			// Cast integer on top of stack to byte
+       7: istore_1		// Store value on top of stack to variable 1
+       8: return
+}
