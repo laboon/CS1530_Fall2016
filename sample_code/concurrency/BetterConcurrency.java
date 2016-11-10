@@ -7,7 +7,7 @@ public class BetterConcurrency {
 
     public static int x = 0;
 
-    public static final int NUM_TIMES = 100000;
+    public static final int NUM_TIMES = Integer.MAX_VALUE;
     
     public static void main(String[] args) {
 
@@ -40,7 +40,7 @@ public class BetterConcurrency {
 	} catch (InterruptedException iex) { }
 
 	// Print out final result - we have done x++ 10000 times
-	// and x-- 100 times
+	// and x-- 10000 times
 	
 	System.out.println("x is now " + x);
 				   

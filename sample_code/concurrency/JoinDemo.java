@@ -30,6 +30,7 @@ public class JoinDemo {
 	t2.start();
 	
 	// Wait for both to finish
+	System.out.println("Main thread of execution here...");
 
 	try {
 	    t1.join();
