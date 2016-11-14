@@ -21,9 +21,9 @@ In order to train ourselves to play in such an environment, we are going to impl
 
 You should start a separate thread which will update this textbox.  This thread should start at the same time as the game.  It will stop updating the textbox when the game is over, and start again when a new game is started.  The specific commentary is up to you.
 
-As a chess player,
-I want an automated kibitzer,
-So that I can pretend I am in a noisy environment
+As a chess player,  
+I want an automated kibitzer,  
+So that I can pretend I am in a noisy environment  
 
 ### Format
 
