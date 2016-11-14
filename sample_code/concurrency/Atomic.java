@@ -17,23 +17,30 @@ public class Atomic {
     
     public static Long _sl = new Long(5);
 
-    public static final long NUM_TIMES = 100000;
+    public static final long NUM_TIMES = 10000000;
     
     public static void main(String[] args) {
+
+	Object lock2 = new Object();
+	
 	Thread t1 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    // Note that our API is slightly different
 		    // for Atomic* types!
 		    // Allow us to do multiple things atomically
 		    // Also note this method returns the new value
-		    // but we are implicitly throwing it away 
-		    _a.incrementAndGet();
+		    // but we are implicitly throwing it away
+		    // synchronized(lock2) {
+			_a.incrementAndGet();
+		    // }
 		}
 	    });
 
 	Thread t2 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
-		    _a.decrementAndGet();
+		    // synchronized(lock2) {
+			_a.decrementAndGet();
+		    // }
 		}		
 	    });
 	try {
@@ -42,20 +49,21 @@ public class Atomic {
 	    t1.join();
 	    t2.join();
 	} catch (InterruptedException iex) { }
-
+	System.out.println("Atomic long is: " + _a);
+	System.exit(0);
 	// Do the same thing, with a regular Long
 
 	Thread t3 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    // No way to perform an increment atomically
 		    // on long
-		    _l = _l + 1;
+		    _l++;
 		}
 	    });
 
 	Thread t4 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
-		    _l = _l - 1;
+		    _l--;
 		}		
 	    });
 	
@@ -65,7 +73,9 @@ public class Atomic {
 	    t3.join();
 	    t4.join();
 	} catch (InterruptedException iex) { }
-
+	
+	System.out.println("Regular long is: " + _l);
+	
 	// We CAN use a regular Long, but we will need to make sure
 	// that we synchronize on some shared object
 
@@ -106,8 +116,6 @@ public class Atomic {
 	
 	// Print out results
 	
-	System.out.println("Atomic long is: " + _a);
-	System.out.println("Regular long is: " + _l);
 	System.out.println("Synchronized long is: " + _sl);
 	
 				       

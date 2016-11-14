@@ -54,7 +54,7 @@ public class LolWut {
 		    } else {
 			// Try commenting out this line and seeing how many times values
 			// are different!
-			System.out.println("1 SAME! v = " + lv + ", nv = " + lnv);
+			// System.out.println("1 SAME! v = " + lv + ", nv = " + lnv);
 		    }
 		}
 
