@@ -12,6 +12,8 @@ For this project, let's assume that we do not know the value of _pi_, but we wou
 
 After we have run this simulation many times, we can figure out the ratio between how many points were inside the circle and the total number of points.  This should be multiplied by four (since we were looking at a "quarter" of the circle).  This will allow us to calculate an estimate of pi.
 
+A more detailed description of the math is here: http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html
+
 Since we're running many calculations which are basically independent of each other, this is an excellent opportunity to use threads!
 
 You will write a program which accepts two long arguments.  The first will indicate how many threads the program should use, and the second how many total iterations.  Note that the number of iterations should remain constant - for example, if I say 10,000 iterations, and have 4 threads, each thread should calculate 2,500 times.
