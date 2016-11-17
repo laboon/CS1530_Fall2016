@@ -11,12 +11,12 @@ public class DecoratorDemo {
 
 	Coyote c2 = new CoyoteRocketDecorator(new SimpleCoyote());
 	c2.chase();
-
+	
 	System.out.println("\nCoyote 3\n");
 
 	Coyote c3 = new CoyoteRocketDecorator(new CoyoteRollerSkatesDecorator ( new SimpleCoyote() ));
 	c3.chase();
-
+	
 	System.out.println("\nCoyote 4\n");
 
 	Coyote c4 = new CoyoteRocketDecorator(new CoyoteRocketDecorator ( new CoyoteRocketDecorator(new CoyoteRollerSkatesDecorator ( new SimpleCoyote() ))));
