@@ -8,6 +8,6 @@ Think about this from different angles, such as:
 2. Trade-offs in quality (did you not test as much as certain points?)
 3. Trade-offs in scope (did you choose to implement one feature or another)
 
-This is not a complete list!  What other kinds of trade-offs ight you have made?
+This is not a complete list!  What other kinds of trade-offs might you have made?
 
 Afterwards, we will have a discussion on the trade-offs to see how the ones your group made compare with the other groups in the class.
