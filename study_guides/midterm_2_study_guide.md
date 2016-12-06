@@ -23,7 +23,7 @@ __Reminder: Midterm 2 is December 8th!__
   * Big Ball o' Mud
   
 ### Object-Oriented Analysis and Design
-* UML (Unified Moeling Language)
+* UML (Unified Modeling Language)
   * Static vs Dynamic views
   * Class Diagram
     * Generalization
